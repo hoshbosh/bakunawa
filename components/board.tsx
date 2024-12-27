@@ -7,7 +7,7 @@ export default function Board(){
     }
     for(var i=0;i<boardCells.length;i++){
         for(var j=0;j<8;j++){
-            boardCells[i].push("balls" )
+            boardCells[i].push("." )
         }
 
     }
